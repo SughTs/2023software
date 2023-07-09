@@ -6,12 +6,9 @@ Author：Sught
 --------
 **数据库设计**
 
-JAVA电商类项目，从需求分析角度来讲，较为简易。
-
-数据库已经设计好了
-
-软件的成功与否，关键在于数据库的设计。
-
+JAVA电商类项目，从需求分析角度来讲，较为简易。  
+数据库已经设计好了  
+软件的成功与否，关键在于数据库的设计。  
 数据表结构：1对1（使用少）,1对多（类别--商品），多对多（学生选课：学生-课程）。  
 e.g.购物车:一人一车，车里很多商品。  
 select * from 左表 left join 右表 on 条件  
@@ -35,5 +32,16 @@ select * from 左表 left join 右表 on 条件
 
 
 **环境要求**
+
 java JDK Version 1.8/11（版本不同可重复安装）
-mysql （1.原生安装难卸载）（不可重复安装）（卸载需要删除注册表）（2.集成安装[phpstudy]：https://www.xp.cn/download.html）（安装环境下不能有中文）默认端口3306
+mysql   
+（1.原生安装难卸载）（不可重复安装）（卸载需要删除注册表）  
+（2.集成安装[phpstudy]：https://www.xp.cn/download.html）  
+（安装环境下不能有中文）默认端口3306，密码root或无密码，mysql5.7，工具：navicat\SQLyog\ *HeidiSQL*  
+*闲的没事别乱改数据库，乱改的一律打死*  
+所有软件系统都有用户表，工具类除外。  
+用户表：存在权限控制，一般由三张表来控制（User,role,permission）（分别代表人、角色、权限，而且user与role是多对多关系，role与ppermission也是多对多关系），但是在小项目中，加入一status字段即可，比较简单。  
+数据库表扩展至10张，可做：关注表（人或店铺）  
+IDE选择IDEA 版本：1.买不起的专业版2.low逼用的社区版3.根本找不到的教育版，社区版是专业版的阉割版。XD，有些功能没有，比如写前端的时候没有提示（TAB）没得补全。  
+社区版没有Spring的项目创建选项XD，这次用的SSM，springMVC+spring+MyBatis（jdbc的封装+xmlxieSQL+注解写SQL）  
+SpringBoot：springMVC+spring+自带的Tomcat，本身不是web项目，呈现效果为一个java项目。
