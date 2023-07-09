@@ -30,3 +30,10 @@ select * from 左表 left join 右表 on 条件
 **测试**
 
 人工测试，无问题则打包发布。发布到云端服务器。
+讲了一堆服务器的东西。  
+快速部署工具e.g.[宝塔]：https://www.bt.cn/new/index.html  
+
+
+**环境要求**
+java JDK Version 1.8/11（版本不同可重复安装）
+mysql （1.原生安装难卸载）（不可重复安装）（卸载需要删除注册表）（2.集成安装[phpstudy]：https://www.xp.cn/download.html）（安装环境下不能有中文）默认端口3306
