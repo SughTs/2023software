@@ -26,7 +26,7 @@ public class ShopApplication implements WebMvcConfigurer {
     public static void main(String[] args) {
         SpringApplication.run(ShopApplication.class, args);
         //项目只有在启动成功后才会出现以下提示！OVO
-        System.out.println("(♥◠‿◠)ﾉﾞ  后台启动成功   ლ(´ڡ`ლ)ﾞ XD \n" );
+        System.out.println("(♥◠‿◠)ﾉﾞ  后台启动成功   ლ(´ڡ`ლ)ﾞ \n" );
     }
 
 
@@ -40,7 +40,7 @@ public class ShopApplication implements WebMvcConfigurer {
 
     @Override//配置虚拟路径，在上传图片成功后调用，可以将未显示的图片显示出来
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
-        registry.addResourceHandler("/shop/**").addResourceLocations("file:F:/create/shop/");
+        registry.addResourceHandler("/shop/**").addResourceLocations("file:N:/lizbit/shop/");
     }
 
 }
