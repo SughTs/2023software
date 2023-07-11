@@ -1,8 +1,9 @@
 # 2023software
 2023年软件生产实训（SDUST）  
-分数构成：40%千峰分数，30%答辩，%30%报告  
+分数构成：40%代码分数，30%答辩，%30%报告  
 [git下载地址]：https://git-scm.com/download/win  
-Author：Sught
+[项目实时更新地址（小组作业地址）]：https://github.com/SughTs/shop
+Author：Sughtkrz  
 --------
 **数据库设计**
 
