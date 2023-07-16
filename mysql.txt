@@ -1,0 +1,202 @@
+LastSessions<|||>1<|||>Unnamed
+LastActiveSession<|||>1<|||>Unnamed
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+CoolBand0Index<|||>3<|||>0
+CoolBand0Break<|||>3<|||>1
+CoolBand0Width<|||>3<|||>1019
+CoolBand1Index<|||>3<|||>1
+CoolBand1Break<|||>3<|||>1
+CoolBand1Width<|||>3<|||>1019
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,275
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,275,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,145
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,215
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,100,167,90,60,65,50,128,130,149,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>449,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>207,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+MainWinLeft<|||>3<|||>125
+MainWinTop<|||>3<|||>237
+MainWinWidth<|||>3<|||>1041
+MainWinHeight<|||>3<|||>673
+querymemoheight<|||>3<|||>244
+dbtreewidth<|||>3<|||>300
+MainWinMaximized<|||>3<|||>0
+FileDialogEncoding_MainForm<|||>3<|||>0
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_DataHow<|||>3<|||>4
+ExportSQL_Filenames<|||>1<|||>C:\Users\Administrator\Desktop\shop.sql<{{{><}}}>C:\Users\Administrator\Desktop\rrcapp.sql<{{{><}}}>C:\Users\Administrator\Desktop\hospital.sql<{{{><}}}>C:\Users\Administrator\Desktop\library.sql<{{{><}}}>C:\Users\Administrator\Desktop\flu.sql<{{{><}}}>
+DisplayBLOBsAsText<|||>3<|||>1
+ColWidths_frmRoutineEditor.listParameters<|||>1<|||>10,439,90,70
+ColsVisible_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColPositions_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColSort_frmRoutineEditor.listParameters<|||>1<|||>-1,0
+DateTimeEditor_CursorPos_Type4<|||>3<|||>11
+StopOnErrorsInBatchMode<|||>3<|||>0
+sqloutheight<|||>3<|||>137
+FontSize<|||>3<|||>19
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr Comment Background<|||>3<|||>536870911
+SQL Attr Comment Style<|||>3<|||>2
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Background<|||>3<|||>536870911
+SQL Attr ConditionalComment Style<|||>3<|||>2
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DataType Background<|||>3<|||>536870911
+SQL Attr DataType Style<|||>3<|||>1
+SQL Attr DefaultPackages Foreground<|||>3<|||>536870911
+SQL Attr DefaultPackages Background<|||>3<|||>536870911
+SQL Attr DefaultPackages Style<|||>3<|||>1
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr DelimitedIdentifier Background<|||>3<|||>536870911
+SQL Attr DelimitedIdentifier Style<|||>3<|||>0
+SQL Attr Exception Foreground<|||>3<|||>536870911
+SQL Attr Exception Background<|||>3<|||>536870911
+SQL Attr Exception Style<|||>3<|||>2
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Function Background<|||>3<|||>536870911
+SQL Attr Function Style<|||>3<|||>1
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Identifier Background<|||>3<|||>536870911
+SQL Attr Identifier Style<|||>3<|||>0
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr Number Background<|||>3<|||>536870911
+SQL Attr Number Style<|||>3<|||>0
+SQL Attr PLSQL-ReservedWord Foreground<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Background<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Style<|||>3<|||>1
+SQL Attr ProcName Foreground<|||>3<|||>536870911
+SQL Attr ProcName Background<|||>3<|||>536870911
+SQL Attr ProcName Style<|||>3<|||>0
+SQL Attr ReservedWord Foreground<|||>3<|||>16711680
+SQL Attr ReservedWord Background<|||>3<|||>536870911
+SQL Attr ReservedWord Style<|||>3<|||>1
+SQL Attr Space Foreground<|||>3<|||>536870911
+SQL Attr Space Background<|||>3<|||>536870911
+SQL Attr Space Style<|||>3<|||>0
+SQL Attr SQLPlus-Command Foreground<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Background<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Style<|||>3<|||>1
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr String Background<|||>3<|||>536870911
+SQL Attr String Style<|||>3<|||>0
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr Symbol Background<|||>3<|||>536870911
+SQL Attr Symbol Style<|||>3<|||>0
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr TableName Background<|||>3<|||>536870911
+SQL Attr TableName Style<|||>3<|||>0
+SQL Attr Variable Foreground<|||>3<|||>8388736
+SQL Attr Variable Background<|||>3<|||>536870911
+SQL Attr Variable Style<|||>3<|||>0
+FieldEditor_Set<|||>3<|||>1
+LineBreakStyle<|||>3<|||>1
+SQLFile0<|||>1<|||>N:\lizbit\shop.sql
+MemoEditorWidth<|||>3<|||>136
+ColWidths_UserManagerForm.listUsers<|||>1<|||>96,80
+ColsVisible_UserManagerForm.listUsers<|||>1<|||>0,1
+ColPositions_UserManagerForm.listUsers<|||>1<|||>0,1
+ColSort_UserManagerForm.listUsers<|||>1<|||>0,0
+Servers\Unnamed\SessionCreated<|||>1<|||>2022-01-20 16:55:18
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>7976767B7
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>0
+Servers\Unnamed\KeepAlive<|||>3<|||>0
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>0
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>1
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\RefusedCount<|||>3<|||>1
+Servers\Unnamed\ServerVersionFull<|||>1<|||>5.7.26 - MySQL Community Server (GPL)
+Servers\Unnamed\ConnectCount<|||>3<|||>15
+Servers\Unnamed\ServerVersion<|||>3<|||>50726
+Servers\Unnamed\LastConnect<|||>1<|||>2023-07-14 07:33:10
+Servers\Unnamed\lastUsedDB<|||>1<|||>shop
+Servers\Unnamed\FavoriteObjects<|||>1<|||>
+Servers\Unnamed\QueryHistory\1<|||>1<|||>2023-07-10 10:23:57|shop|0|select tbl_product.*, tbl_user.user from tbl_product<{{{><}}}>left join tbl_user<{{{><}}}>on tbl_product.uid = tbl_user.uid
+Servers\Unnamed\QueryHistory\2<|||>1<|||>2023-07-10 10:24:12|shop|0|select tbl_product.*, tbl_user.user from tbl_product<{{{><}}}>left join tbl_user<{{{><}}}>on tbl_product.uid = tbl_user.id
+Servers\Unnamed\QueryHistory\3<|||>1<|||>2023-07-10 10:24:56|shop|15|create view v_product as<{{{><}}}>select tbl_product.*, tbl_user.user from tbl_product<{{{><}}}>left join tbl_user<{{{><}}}>on tbl_product.uid = tbl_user.id
+Servers\Unnamed\QueryHistory\4<|||>1<|||>2023-07-10 10:28:35|shop|0|create view v2_p as<{{{><}}}>select v_product.*tbl_category.category from v_product<{{{><}}}>left join tbl_category<{{{><}}}>on v_product.cid = tbl_category.id
+Servers\Unnamed\QueryHistory\5<|||>1<|||>2023-07-10 10:28:43|shop|0|create view v2_p as<{{{><}}}>select v_product.*,tbl_category.category from v_product<{{{><}}}>left join tbl_category<{{{><}}}>on v_product.cid = tbl_category.id
+Servers\Unnamed\QueryHistory\7<|||>1<|||>2023-07-12 13:58:22|shop|0|create view view_comment_user as<{{{><}}}>select tbl_comment.*tbl_user.username from tbl_comment<{{{><}}}>left join tbl_user<{{{><}}}>on tbl_comment.uid = tbl_user.id
+Servers\Unnamed\QueryHistory\6<|||>1<|||>2023-07-12 14:00:13|shop|0|create view view_comment_user as<{{{><}}}>select tbl_comment.*, tbl_user.username from tbl_comment<{{{><}}}>left join tbl_user<{{{><}}}>on tbl_comment.uid = tbl_user.id
+Servers\Unnamed\QueryHistory\8<|||>1<|||>2023-07-12 14:05:36|shop|0|create view view_comment_user_product as<{{{><}}}>select view_comment_user.* ,tbl_product.id from view_comment_user<{{{><}}}>left join tbl_product<{{{><}}}>on view_comment_user.pid = tbl_product.id
+Servers\Unnamed\QueryHistory\9<|||>1<|||>2023-07-12 14:06:04|shop|0|create view view_comment_user_product as<{{{><}}}>select view_comment_user.* ,tbl_product.product from view_comment_user<{{{><}}}>left join tbl_product<{{{><}}}>on view_comment_user.pid = tbl_product.id
+Servers\Unnamed\QueryHistory\10<|||>1<|||>2023-07-12 15:28:26|shop|0|create view view_collect_user as<{{{><}}}>select tbl_collect.* ,tbl_user.username from tbl_collect<{{{><}}}>left join tbl_user<{{{><}}}>on tbl_collect.uid = tbl_user.id
+Servers\Unnamed\QueryHistory\11<|||>1<|||>2023-07-12 15:29:47|shop|0|create view view_collect_user_product as<{{{><}}}>select view_collect_user.* ,tbl_product.product from view_collect_user<{{{><}}}>left join tbl_product<{{{><}}}>on view_collect_user.uid = tbl_product.id
+Servers\Unnamed\QueryHistory\14<|||>1<|||>2023-07-12 15:41:22|shop|0|create view view_collect_user_product as<{{{><}}}>select view_collect_user.* ,tbl_product.product,tbl_product.price from view_collect_user<{{{><}}}>left join tbl_product<{{{><}}}>on view_collect_user.pid = tbl_product.id
+Servers\Unnamed\QueryHistory\15<|||>1<|||>2023-07-12 15:42:11|shop|0|create view view_collect_user_product as<{{{><}}}>select view_collect_user.* ,tbl_product.product from view_collect_user<{{{><}}}>left join tbl_product<{{{><}}}>on view_collect_user.pid = tbl_producview_collect_user_productt.id
+Servers\Unnamed\QueryHistory\13<|||>1<|||>2023-07-12 15:42:23|shop|15|create view view_collect_user_product as<{{{><}}}>select view_collect_user.* ,tbl_product.product from view_collect_user<{{{><}}}>left join tbl_product<{{{><}}}>on view_collect_user.pid = tbl_product.id
+Servers\Unnamed\QueryHistory\12<|||>1<|||>2023-07-13 08:11:26|shop|0|create view view_info_user as<{{{><}}}>select tbl_info.*, tbl_user.username from tbl_info<{{{><}}}>left join tbl_user<{{{><}}}>on tbl_info.uid = tbl_user.id
+Servers\Unnamed\QueryHistory\16<|||>1<|||>2023-07-13 09:13:44|shop|15|create view view_order_user as<{{{><}}}>select tbl_order.*, tbl_user.username from tbl_order<{{{><}}}>left join tbl_user<{{{><}}}>on tbl_order.uid = tbl_user.username
+Servers\Unnamed\QueryHistory\18<|||>1<|||>2023-07-13 09:34:23|shop|0|create view view_order_user as<{{{><}}}>select tbl_order.*, tbl_user.username from tbl_order<{{{><}}}>left join tbl_user<{{{><}}}>on tbl_order.uid = tbl_user.id
+Servers\Unnamed\QueryHistory\17<|||>1<|||>2023-07-13 10:09:03|shop|0|create view view_order_user_shopping as<{{{><}}}>select view_order_user.*, tbl_shopping from view_order_user<{{{><}}}>left join tbl_shopping<{{{><}}}>where view_order_user.id = tbl_shopping.oid
+Servers\Unnamed\QueryHistory\20<|||>1<|||>2023-07-13 10:09:47|shop|0|create view view_order_user_shopping as<{{{><}}}>select view_order_user.*, tbl_shopping.pid from view_order_user<{{{><}}}>left join tbl_shopping<{{{><}}}>where view_order_user.id = tbl_shopping.oid
+Servers\Unnamed\QueryHistory\19<|||>1<|||>2023-07-13 10:10:39|shop|0|create view view_order_user_shopping as<{{{><}}}>select view_order_user.*, tbl_shopping.pid,tbl_shopping.count from view_order_user<{{{><}}}>left join tbl_shopping<{{{><}}}>where view_order_user.id = tbl_shopping.oid
+Servers\Unnamed\QueryHistory\21<|||>1<|||>2023-07-13 10:11:07|shop|0|create view view_order_user_shopping as<{{{><}}}>select view_order_user.*, tbl_shopping.pid,tbl_shopping.count from view_order_user<{{{><}}}>left join tbl_shopping<{{{><}}}>on view_order_user.id = tbl_shopping.oid
+Servers\Unnamed\QueryHistory\22<|||>1<|||>2023-07-13 10:15:16|shop|0|create view view_order_user_shopping_pruduct as<{{{><}}}>select view_order_user_shopping.*, tbl_product.product,tbl_product.uid<{{{><}}}>from view_order_user_shopping left join tbl_product<{{{><}}}>on view_order_user_shopping.pid=tbl_product.id
+Servers\Unnamed\QueryHistory\23<|||>1<|||>2023-07-13 10:17:39|shop|0|create view view_order_shopping as<{{{><}}}>select tbl_order.*, tbl_shopping.pid<{{{><}}}>from tbl_order left join tbl_shopping<{{{><}}}>on tbl_order.id = tbl_shopping.oid
+Servers\Unnamed\QueryHistory\24<|||>1<|||>2023-07-13 15:43:43|shop|15|create table tbl_discount(<{{{><}}}>	id INT PRIMARY KEY,<{{{><}}}>	pid INT,<{{{><}}}>	discount INT<{{{><}}}>	);
+Servers\Unnamed\QueryHistory\25<|||>1<|||>2023-07-13 15:46:37|shop|0|CREATE TABLE tbl_discount (<{{{><}}}>    id INT PRIMARY KEY,<{{{><}}}>    pid INT,<{{{><}}}>    discount DECIMAL(10, 2),<{{{><}}}>    FOREIGN KEY (pid) REFERENCES tbl_product(id)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\26<|||>1<|||>2023-07-13 15:51:36|shop|0|create view view_discount_product as<{{{><}}}>select tbl_discount.*, tbl_product.product<{{{><}}}>from tbl_discount left join tbl_product<{{{><}}}>on tbl_discount.pid = tbl_product.id
+Servers\Unnamed\QueryHistory\27<|||>1<|||>2023-07-13 16:32:29|shop|0|create view view_discount_product as<{{{><}}}>select tbl_discount.*, tbl_product.product, tbl_product.price<{{{><}}}>from tbl_discount left join tbl_product<{{{><}}}>on tbl_discount.pid = tbl_product.idview_discount_product
+Servers\Unnamed\QueryHistory\28<|||>1<|||>2023-07-13 16:32:40|shop|0|create view view_discount_product as<{{{><}}}>select tbl_discount.*, tbl_product.product, tbl_product.price<{{{><}}}>from tbl_discount left join tbl_product<{{{><}}}>on tbl_discount.pid = tbl_product.id
+Servers\Unnamed\shop|tbl_cart\Sort<|||>1<|||>0_id|1_count|
+Servers\Unnamed\shop|tbl_collect\Sort<|||>1<|||>1_id|
+Servers\Unnamed\shop|tbl_comment\Sort<|||>1<|||>1_id|1_uid|
+Servers\Unnamed\shop|tbl_user\Sort<|||>1<|||>1_status|0_id|
+Servers\Unnamed\shop|view_comment_user_product\Sort<|||>1<|||>1_comment|
+Servers\Unnamed\shop|view_order_shopping\Sort<|||>1<|||>1_pid|
